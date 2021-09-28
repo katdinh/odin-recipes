@@ -1,0 +1,1 @@
+This is a recipe website project that implements basic HTML, CSS, and Javascript.  
